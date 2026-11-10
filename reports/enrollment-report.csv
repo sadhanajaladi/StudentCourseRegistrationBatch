@@ -1,0 +1,10 @@
+enrollmentId,studentId,studentName,studentEmail,courseId,courseCode,courseTitle,status,enrolledAt
+"5","4","Deepu","sadhanajaladi13@gmail.com","3","FLS202","FullStack","ENROLLED","2026-10-18T19:23:47.145753"
+"6","4","Deepu","sadhanajaladi13@gmail.com","1","JAVA101","Java Programming","ENROLLED","2026-10-18T19:32:01.857975"
+"10","4","Deepu","sadhanajaladi13@gmail.com","4","FN301","FileNet","ENROLLED","2026-10-18T19:52:20.690292"
+"13","5","Hari","hari@gmail.com","4","FN301","FileNet","ENROLLED","2026-10-18T21:19:52.211764"
+"14","6","Venu","venu@gmail.com","2","PYTH201","Python Programming","ENROLLED","2026-10-18T21:27:46.570016"
+"15","6","Venu","venu@gmail.com","4","FN301","FileNet","ENROLLED","2026-10-18T21:27:57.714388"
+"16","10","Kiran Mai","kiranmai@gmail.com","5","DA102","Data Analytics","ENROLLED","2026-10-20T21:13:50.248112"
+"17","10","Kiran Mai","kiranmai@gmail.com","1","JAVA101","Java Programming","ENROLLED","2026-10-20T21:16:01.949600"
+"18","10","Kiran Mai","kiranmai@gmail.com","4","FN301","FileNet","ENROLLED","2026-10-20T21:38:14.619486"
